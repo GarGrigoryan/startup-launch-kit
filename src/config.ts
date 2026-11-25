@@ -21,7 +21,7 @@ export const site: SiteConfig = {
   // Building your own startup? Set this to false.
   // (It hides the Plovify menu, numbers, FAQ and sample blog posts,
   //  and uses neutral texts about YOUR startup instead.)
-  showPlovifyExamples: false,
+  showPlovifyExamples: true,
 
   // ----------------------------------------------------------
   //  OPTIONAL: more sections. Edit them later if you like.
