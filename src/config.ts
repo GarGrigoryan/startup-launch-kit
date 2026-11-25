@@ -21,7 +21,7 @@ export const site: SiteConfig = {
   // Building your own startup? Set this to false.
   // (It hides the Plovify menu, numbers, FAQ and sample blog posts,
   //  and uses neutral texts about YOUR startup instead.)
-  showPlovifyExamples: true,
+  showPlovifyExamples: false,
 
   // ----------------------------------------------------------
   //  OPTIONAL: more sections. Edit them later if you like.
@@ -50,6 +50,6 @@ export const site: SiteConfig = {
   //  Workshop switches. Leave as `false` until the workbook
   //  tells you to turn them on.
   // ----------------------------------------------------------
-  enableWaitlist: false, // Level 2
+  enableWaitlist: true, // Level 2
   enableAssistant: false, // Level 3
 };
