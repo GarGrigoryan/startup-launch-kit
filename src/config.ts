@@ -15,7 +15,7 @@ export const site: SiteConfig = {
   tagline: "Microelectronics shop",
   description:
     "online shop for microelectronics components and modules, including sensors, microcontrollers, and development boards.",
-  accentColor: "#ff7b1c", // your brand colour as a hex code, e.g. "#2563eb" (blue)
+  accentColor: "#271cff", // your brand colour as a hex code, e.g. "#2563eb" (blue)
   contactEmail: "garikyang950@gmail.com",
 
   // Building your own startup? Set this to false.
